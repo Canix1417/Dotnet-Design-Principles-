@@ -1,1 +1,1 @@
-# Dotnet-Design-Principles-
+# dotnet-design-principles
